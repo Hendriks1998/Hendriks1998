@@ -7,7 +7,7 @@
 
 
 
-<p align="center">Software Engineering Student | Exploring new languages ​​and building the future, one line of code at a time 🚀💡💻
+<p align="center">| Exploring new languages ​​and building the future, one line of code at a time 🚀💡💻
 
 
 
